@@ -35,7 +35,7 @@
                 "flag": "it",
                 "country": "Italy",
                 "city": "Monza",
-                "timezone": "Europe/Rome",
+                "timezone": "America/Los_Angeles",
                 "circuit": {
                     "img": "005.png",
                     "name": "Autodromo Nazionale Monza",
