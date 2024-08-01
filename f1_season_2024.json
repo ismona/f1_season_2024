@@ -44,16 +44,16 @@
                 }
             },
             "datetime": {
-                "weekend_warm_up": "2024-08-22 19:30",
-                "practice_1": "2024-08-23 17:30",
-                "practice_2": "2024-08-23 21:00",
-                "practice_3": "2024-08-24 16:30",
-                "pre_qualifying": "2024-08-24 19:00",
-                "qualifying": "2024-08-24 20:00",
-                "post_qualifying": "2024-08-24 22:00",
-                "pre_race": "2024-08-25 19:00",
-                "race": "2024-08-25 20:00",
-                "post_race": "2024-08-25 22:00"
+                  "weekend_warm_up": "2024-08-22 05:30",
+                  "practice_1": "2024-08-23 03:30",
+                  "practice_2": "2024-08-23 07:00",
+                  "practice_3": "2024-08-24 00:30",
+                  "pre_qualifying": "2024-08-24 03:00",
+                  "qualifying": "2024-08-24 04:00",
+                  "post_qualifying": "2024-08-24 06:00",
+                  "pre_race": "2024-08-25 03:00",
+                  "race": "2024-08-25 04:00",
+                  "post_race": "2024-08-25 06:00"
             },
             "cancelled": false,
             "sprint": false
