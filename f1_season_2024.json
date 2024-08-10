@@ -156,7 +156,7 @@
         "flag": "mx",
         "country": "Mexico",
         "city": "Mexico City",
-        "timezone": "America/Monterrey",
+        "timezone": "America/Mexico_City",
         "circuit": {
           "img": "021.png",
           "name": "Autodromo Hermanos Rodriguez",
