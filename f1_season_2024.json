@@ -1,62 +1,303 @@
 {
-    "season": [
-        {
-            "name": "FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2024",
-            "geolocation": {
-                "flag": "nl",
-                "country": "Netherlands",
-                "city": "Zandvoort",
-                "timezone": "Europe/Amsterdam",
-                "circuit": {
-                    "img": "018.png",
-                    "name": "Circuit Park Zandvoort",
-                    "laps": "70",
-                    "size": "4.307"
-                }
-            },
-            "datetime": {
-                "weekend_warm_up": "2024-08-22 12:30",
-                "practice_1": "2024-08-23 10:30",
-                "practice_2": "2024-08-23 14:00",
-                "practice_3": "2024-08-24 09:30",
-                "pre_qualifying": "2024-08-24 12:00",
-                "qualifying": "2024-08-24 13:00",
-                "post_qualifying": "2024-08-24 15:00",
-                "pre_race": "2024-08-25 12:00",
-                "race": "2024-08-25 13:00",
-                "post_race": "2024-08-25 15:00"
-            },
-            "cancelled": false,
-            "sprint": false
-        },
-        {
-            "name": "FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024",
-            "geolocation": {
-                "flag": "it",
-                "country": "Italy",
-                "city": "Monza",
-                "timezone": "America/Los_Angeles",
-                "circuit": {
-                    "img": "005.png",
-                    "name": "Autodromo Nazionale Monza",
-                    "laps": "53",
-                    "size": "5.793"
-                }
-            },
-            "datetime": {
-                  "weekend_warm_up": "2024-08-22 12:30",
-                   "practice_1": "2024-08-23 10:30",
-                   "practice_2": "2024-08-23 14:00",
-                   "practice_3": "2024-08-24 09:30",
-                    "pre_qualifying": "2024-08-24 12:00",
-                    "qualifying": "2024-08-24 13:00",
-                    "post_qualifying": "2024-08-24 15:00",
-                    "pre_race": "2024-08-25 12:00",
-                    "race": "2024-08-25 13:00",
-                    "post_race": "2024-08-25 15:00"
-            },
-            "cancelled": false,
-            "sprint": false
+  "information": {
+    "season": "2024"
+  },
+  "season": [
+    {
+      "name": "FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2024",
+      "geolocation": {
+        "flag": "nl",
+        "country": "Netherlands",
+        "city": "Zandvoort",
+        "timezone": "Europe/Amsterdam",
+        "circuit": {
+          "img": "018.png",
+          "name": "Circuit Park Zandvoort",
+          "laps": "70",
+          "size": "4.307"
         }
-    ]
+      },
+      "datetime": {
+        "weekend_warm_up": "2024-08-22 12:30",
+        "practice_1": "2024-08-23 10:30",
+        "practice_2": "2024-08-23 14:00",
+        "practice_3": "2024-08-24 09:30",
+        "pre_qualifying": "2024-08-24 12:00",
+        "qualifying": "2024-08-24 13:00",
+        "post_qualifying": "2024-08-24 15:00",
+        "pre_race": "2024-08-25 12:00",
+        "race": "2024-08-25 13:00",
+        "post_race": "2024-08-25 15:00"
+      },
+      "cancelled": false,
+      "sprint": false
+    },
+    {
+      "name": "FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024",
+      "geolocation": {
+        "flag": "it",
+        "country": "Italy",
+        "city": "Monza",
+        "timezone": "Europe/Rome",
+        "circuit": {
+          "img": "005.png",
+          "name": "Autodromo Nazionale Monza",
+          "laps": "53",
+          "size": "5.793"
+        }
+      },
+      "datetime": {
+        "weekend_warm_up": "2024-08-29 13:30",
+        "practice_1": "2024-08-30 11:30",
+        "practice_2": "2024-08-30 15:00",
+        "practice_3": "2024-08-31 10:30",
+        "pre_qualifying": "2024-08-31 13:00",
+        "qualifying": "2024-08-31 14:00",
+        "post_qualifying": "2024-08-31 16:00",
+        "pre_race": "2024-09-01 12:00",
+        "race": "2024-09-01 13:00",
+        "post_race": "2024-09-01 15:00"
+      },
+      "cancelled": false,
+      "sprint": false
+    },
+    {
+      "name": "FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2024",
+      "geolocation": {
+        "flag": "az",
+        "country": "Azerbaijan",
+        "city": "Baku",
+        "timezone": "Asia/Baku",
+        "circuit": {
+          "img": "010.png",
+          "name": "Baku City Circuit",
+          "laps": "51",
+          "size": "6.003"
+        }
+      },
+      "datetime": {
+        "weekend_warm_up": "2024-09-12 11:30",
+        "practice_1": "2024-09-13 09:30",
+        "practice_2": "2024-09-13 13:00",
+        "practice_3": "2024-09-14 8:30",
+        "pre_qualifying": "2024-09-14 11:00",
+        "qualifying": "2024-09-14 12:00",
+        "post_qualifying": "2024-09-14 14:00",
+        "pre_race": "2024-09-15 10:00",
+        "race": "2024-09-15 11:00",
+        "post_race": "2024-09-15 13:00"
+      },
+      "cancelled": false,
+      "sprint": false
+    },
+    {
+      "name": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2024",
+      "geolocation": {
+        "flag": "sg",
+        "country": "Singapore",
+        "city": "Singapore",
+        "timezone": "Asia/Singapore",
+        "circuit": {
+          "img": "019.png",
+          "name": "Marina Bay Street Circuit",
+          "laps": "61",
+          "size": "5.063"
+        }
+      },
+      "datetime": {
+        "weekend_warm_up": "2024-09-19 11:30",
+        "practice_1": "2024-09-20 09:30",
+        "practice_2": "2024-09-20 13:00",
+        "practice_3": "2024-09-21 09:30",
+        "pre_qualifying": "2024-09-21 12:00",
+        "qualifying": "2024-09-21 13:00",
+        "post_qualifying": "2024-09-21 15:00",
+        "pre_race": "2024-09-22 11:00",
+        "race": "2024-09-22 12:00",
+        "post_race": "2024-09-22 14:00"
+      },
+      "cancelled": false,
+      "sprint": false
+    },
+    {
+      "name": "PIRELLI UNITED STATES GRAND PRIX 2024",
+      "geolocation": {
+        "flag": "us",
+        "country": "United States",
+        "city": "Austin",
+        "timezone": "America/Winnipeg",
+        "circuit": {
+          "img": "007.png",
+          "name": "Circuit of the Americas",
+          "laps": "56",
+          "size": "5.513"
+        }
+      },
+      "datetime": {
+        "weekend_warm_up": "2024-10-17 19:30",
+        "practice_1": "2024-10-18 17:30",
+        "pre_qualifying": "2024-10-18 20:00",
+        "qualifying": "2024-10-18 21:00",
+        "post_qualifying": "2024-10-18 23:00",
+        "sprint_qualifying": "2024-10-19 17:30",
+        "pre_sprint": "2024-10-19 21:00",
+        "sprint": "2024-10-19 22:00",
+        "post_sprint": "2024-10-20 00:00",
+        "pre_race": "2024-10-20 18:00",
+        "race": "2024-10-20 19:00",
+        "post_race": "2024-10-20 21:00"
+      },
+      "cancelled": false,
+      "sprint": true
+    },
+    {
+      "name": "GRAN PREMIO DE LA CIUDAD DE MÉXICO 2024",
+      "geolocation": {
+        "flag": "mx",
+        "country": "Mexico",
+        "city": "Mexico City",
+        "timezone": "America/Monterrey",
+        "circuit": {
+          "img": "021.png",
+          "name": "Autodromo Hermanos Rodriguez",
+          "laps": "71",
+          "size": "4.304"
+        }
+      },
+      "datetime": {
+        "weekend_warm_up": "2024-10-24 20:30",
+        "practice_1": "2024-10-25 18:30",
+        "practice_2": "2024-10-25 22:00",
+        "practice_3": "2024-10-26 17:30",
+        "pre_qualifying": "2024-10-26 20:00",
+        "qualifying": "2024-10-26 21:00",
+        "post_qualifying": "2024-10-26 23:00",
+        "pre_race": "2024-10-27 18:00",
+        "race": "2024-10-27 19:00",
+        "post_race": "2024-10-27 21:00"
+      },
+      "cancelled": false,
+      "sprint": false
+    },
+    {
+      "name": "LENOVO GRANDE PRÊMIO DE SÃO PAULO 2024",
+      "geolocation": {
+        "flag": "br",
+        "country": "Brazil",
+        "city": "Interlagos",
+        "timezone": "America/Sao_Paulo",
+        "circuit": {
+          "img": "022.png",
+          "name": "Autodromo Jose Carlos Pace",
+          "laps": "71",
+          "size": "4.309"
+        }
+      },
+      "datetime": {
+        "weekend_warm_up": "2024-10-31 15:30",
+        "practice_1": "2024-11-01 13:30",
+        "pre_qualifying": "2024-11-01 16:00",
+        "qualifying": "2024-11-01 17:00",
+        "post_qualifying": "2024-11-01 19:00",
+        "sprint_qualifying": "2024-11-02 13:00",
+        "pre_sprint": "2024-11-02 16:30",
+        "sprint": "2024-11-02 17:30",
+        "post_sprint": "2024-11-02 19:30",
+        "pre_race": "2024-11-03 15:00",
+        "race": "2024-11-03 16:00",
+        "post_race": "2024-11-03 18:00"
+      },
+      "cancelled": false,
+      "sprint": true
+    },
+    {
+      "name": "HEINEKEN SILVER LAS VEGAS GRAND PRIX 2024",
+      "geolocation": {
+        "flag": "us",
+        "country": "United States",
+        "city": "Las Vegas",
+        "timezone": "America/Los_Angeles",
+        "circuit": {
+          "img": "028.png",
+          "name": "Las Vegas Street Circuit",
+          "laps": "50",
+          "size": "6.116"
+        }
+      },
+      "datetime": {
+        "weekend_warm_up": "2024-11-20 05:30",
+        "practice_1": "2024-11-21 03:30",
+        "practice_2": "2024-11-21 07:00",
+        "practice_3": "2024-11-22 03:30",
+        "pre_qualifying": "2024-11-22 06:00",
+        "qualifying": "2024-11-22 07:00",
+        "post_qualifying": "2024-11-22 09:00",
+        "pre_race": "2024-11-23 04:00",
+        "race": "2024-11-23 05:00",
+        "post_race": "2024-11-23 07:00"
+      },
+      "cancelled": false,
+      "sprint": false
+    },
+    {
+      "name": "QATAR AIRWAYS QATAR GRAND PRIX 2024",
+      "geolocation": {
+        "flag": "qa",
+        "country": "Qatar",
+        "city": "Lusail",
+        "timezone": "Asia/Qatar",
+        "circuit": {
+          "img": "026.png",
+          "name": "Losail International Circuit",
+          "laps": "57",
+          "size": "5.380"
+        }
+      },
+      "datetime": {
+        "weekend_warm_up": "2024-11-28 14:30",
+        "practice_1": "2024-11-29 12:30",
+        "pre_qualifying": "2024-11-29 15:00",
+        "qualifying": "2024-11-29 16:00",
+        "post_qualifying": "2024-11-29 18:00",
+        "sprint_qualifying": "2024-11-30 12:00",
+        "pre_sprint": "2024-11-30 15:30",
+        "sprint": "2024-11-30 16:30",
+        "post_sprint": "2024-11-30 18:30",
+        "pre_race": "2024-12-01 14:00",
+        "race": "2024-12-01 15:00",
+        "post_race": "2024-12-01 17:00"
+      },
+      "cancelled": false,
+      "sprint": true
+    },
+    {
+      "name": "ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2024",
+      "geolocation": {
+        "flag": "ae",
+        "country": "Abu Dhabi",
+        "city": "Yas Marina",
+        "timezone": "Asia/Dubai",
+        "circuit": {
+          "img": "023.png",
+          "name": "Yas Marina Circuit",
+          "laps": "55",
+          "size": "5.554"
+        }
+      },
+      "datetime": {
+        "weekend_warm_up": "2024-12-05 10:30",
+        "practice_1": "2024-12-06 08:30",
+        "practice_2": "2024-12-06 12:00",
+        "practice_3": "2024-12-07 09:30",
+        "pre_qualifying": "2024-12-07 12:00",
+        "qualifying": "2024-12-07 13:00",
+        "post_qualifying": "2024-12-07 15:00",
+        "pre_race": "2024-12-08 11:00",
+        "race": "2024-12-08 12:00",
+        "post_race": "2024-12-08 14:00"
+      },
+      "cancelled": false,
+      "sprint": false
+    }
+  ]
 }
